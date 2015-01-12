@@ -7,6 +7,14 @@ I mainly use ctypes to this things and when is posible i will try to make it fun
 
 The idea is to learn by breaking, one of the more funny ways of learning something.
 
+All examples are tested on *CPython 3.4*.
+
+Usage
+-----
+
+Al examples must be runned in the interactive interpreter coping and pasting
+(to avoid the python compiler optimizations).
+
 Rules to contribute
 -------------------
 
